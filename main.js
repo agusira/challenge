@@ -13,7 +13,7 @@ console.log(`BMI Udin (${bmiUdin1.toFixed(1)}) ${udinLebihTinggi1 ? "lebih tingg
 // Data uji 2
 const massaUdin2 = 95
 const tinggiUdin2 = 1.88
-const bmiUdin2 = massaUdin1 / (tinggiUdin1 ** 2)
+const bmiUdin2 = massaUdin2 / (tinggiUdin2 ** 2)
 
 const massaNanang2 = 85
 const tinggiNanang2 = 1.76
